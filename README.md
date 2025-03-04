@@ -37,3 +37,14 @@ git init
 ```
 git clone https://github.com/1vanGromov/-/tree/master
 ```
+
+## Начало работы
+Эти инструкции предоставят вам копию проекта и помогут запустить на вашем локальном компьютере для разработки и тестирования.<br/>
+
+### Необходимые условия
+У вас должен быть установлен [Git Bush](https://gitforwindows.org/).
+Также быть установлена с компонентами Avalonia  [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/ru/vs/community/)
+
+### Авторы
+
+- Громов И.Е. гр.41П - https://github.com/1vanGromov
