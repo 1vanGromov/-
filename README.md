@@ -35,5 +35,5 @@
 git init
 ```
 ```
-git clone [https://github.com/1vanGromov/-/tree/master]
+git clone https://github.com/1vanGromov/-/tree/master
 ```
