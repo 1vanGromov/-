@@ -1,0 +1,35 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AvaliniaEnd.Views.OrganizatorView"
+			 xmlns:vm="using:AvaliniaEnd.ViewModels"
+			 xmlns:v="using:AvaliniaEnd.Views"
+			 x:DataType="vm:OrganizatorViewModel"
+			 >
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="200"/>
+			<ColumnDefinition Width="*"/>
+		</Grid.ColumnDefinitions>
+
+		<!-- Левая панель -->
+		<StackPanel Grid.Column="0" Margin="10">
+			<Border BorderBrush="Black" BorderThickness="1" Width="150" Height="150" HorizontalAlignment="Center" VerticalAlignment="Top">
+				<Image Source="{Binding Avatar1}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+			</Border>
+			<Button Content="Мой профиль" Width="150" Margin="10" HorizontalAlignment="Center"/>
+		</StackPanel>
+
+		<!-- Правая панель -->
+		<StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+			<TextBlock Text="{Binding DayMessage}" FontWeight="Bold" HorizontalAlignment="Center"/>
+			<TextBlock Text="{Binding Message1}" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,5,0,20"/>
+
+			<Button Content="Мероприятия" Command="{Binding NavigateToEvent}" Width="200" Height="50" Margin="5" IsEnabled="True"/>
+			<Button Content="Участники" Width="200" Height="50" Margin="5"/>
+			<Button Content="Жюри" Width="200" Height="50" Margin="5"/>
+		</StackPanel>
+	</Grid>
+</UserControl>

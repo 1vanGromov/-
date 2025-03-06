@@ -1,0 +1,33 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AvaliniaEnd.Views.EventsView"
+			  xmlns:v="using:AvaliniaEnd.Views"
+			 xmlns:vm="using:AvaliniaEnd.ViewModels"
+			 x:DataType="vm:EventsViewModel"
+			 >
+
+			<StackPanel>
+			<ListBox ItemsSource="{Binding Events}" Name="EventsList" Width="600" Height="500">
+				<ListBox.ItemTemplate >
+					<DataTemplate >
+						
+							<StackPanel Orientation="Horizontal">
+								<StackPanel>
+									<Image Source="{Binding Image}" Width="100" Height="100"/>
+								</StackPanel>
+								<StackPanel Margin="10">
+									<TextBlock Text="{Binding EventTitle}" FontWeight="Bold"/>
+									<TextBlock Text="{Binding StartDate, StringFormat=Дата начала: {0}}"/>
+									<TextBlock Text="{Binding Days, StringFormat=Количество дней: {0}}"/>
+								</StackPanel>
+							</StackPanel>
+						
+					</DataTemplate>
+				</ListBox.ItemTemplate>
+			</ListBox>
+			</StackPanel>
+		
+</UserControl>
