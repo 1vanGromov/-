@@ -7,29 +7,35 @@
 			 xmlns:vm="using:AvaliniaEnd.ViewModels"
 			 xmlns:v="using:AvaliniaEnd.Views"
 			 x:DataType="vm:OrganizatorViewModel"
+			 Background="White"
 			 >
-	<Grid>
-		<Grid.ColumnDefinitions>
-			<ColumnDefinition Width="200"/>
-			<ColumnDefinition Width="*"/>
-		</Grid.ColumnDefinitions>
+	<Border Background="White" Width="800" BorderThickness="1" CornerRadius="10" Padding="20">
+		<Grid>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="250"/>
+				<ColumnDefinition Width="*"/>
+			</Grid.ColumnDefinitions>
 
-		<!-- Левая панель -->
-		<StackPanel Grid.Column="0" Margin="10">
-			<Border BorderBrush="Black" BorderThickness="1" Width="150" Height="150" HorizontalAlignment="Center" VerticalAlignment="Top">
-				<Image Source="{Binding Avatar1}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
-			</Border>
-			<Button Content="Мой профиль" Width="150" Margin="10" HorizontalAlignment="Center"/>
-		</StackPanel>
+			<!-- Левая панель -->
+			<StackPanel Grid.Column="0" Margin="10" HorizontalAlignment="Center">
+				<Border BorderBrush="#CCC" BorderThickness="1" CornerRadius="10" Width="150" Height="150" HorizontalAlignment="Center" VerticalAlignment="Top">
+					<Image Source="{Binding Avatar1}" Stretch="UniformToFill"/>
+				</Border>
+				<Button Content="Мой профиль" Width="150" Height="40" Margin="10" Background="#2196F3" Foreground="White" FontWeight="Bold" CornerRadius="5"/>
+			</StackPanel>
 
-		<!-- Правая панель -->
-		<StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
-			<TextBlock Text="{Binding DayMessage}" FontWeight="Bold" HorizontalAlignment="Center"/>
-			<TextBlock Text="{Binding Message1}" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,5,0,20"/>
+			<!-- Правая панель -->
+			<StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Spacing="10">
+				<TextBlock Text="{Binding DayMessage}" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" Foreground="#333"/>
+				<TextBlock Text="{Binding Message1}" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center" Foreground="#666" Margin="0,5,0,20"/>
 
-			<Button Content="Мероприятия" Command="{Binding NavigateToEvent}" Width="200" Height="50" Margin="5" IsEnabled="True"/>
-			<Button Content="Участники" Width="200" Height="50" Margin="5"/>
-			<Button Content="Жюри" Width="200" Height="50" Margin="5"/>
-		</StackPanel>
-	</Grid>
+				<StackPanel Orientation="Vertical" HorizontalAlignment="Center" Spacing="10">
+					<Button Content="Мероприятия" Command="{Binding NavigateToEvent}" Width="200" Height="50" Background="#4CAF50" Foreground="White" FontWeight="Bold" CornerRadius="5"/>
+					<Button Content="Участники" Width="200" Height="50" Background="#FF9800" Foreground="White" FontWeight="Bold" CornerRadius="5"/>
+					<Button Content="Жюри" Width="200" Height="50" Background="#2196F3" Foreground="White" FontWeight="Bold" CornerRadius="5"/>
+				</StackPanel>
+			</StackPanel>
+		</Grid>
+	</Border>
+
 </UserControl>

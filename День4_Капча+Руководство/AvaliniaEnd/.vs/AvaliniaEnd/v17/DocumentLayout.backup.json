@@ -3,20 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\views\\loginview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\views\\loginview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\models\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\models\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\views\\eventsview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\views\\eventsview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\views\\organizatorview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\views\\organizatorview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\views\\loginview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\views\\loginview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\assets\\\u043C\u043E\u0434\u0435\u0440\u0430\u0442\u043E\u0440\u044B_import\\foto28.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\assets\\\u043C\u043E\u0434\u0435\u0440\u0430\u0442\u043E\u0440\u044B_import\\foto28.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\views\\loginview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,22 +56,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\viewmodels\\eventsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\viewmodels\\eventsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\views\\organizatorview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\views\\organizatorview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\models\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|solutionrelative:avaliniaend\\models\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB02CFF8-E652-4FCA-BDC2-F114725984B1}|AvaliniaEnd\\AvaliniaEnd.csproj|c:\\users\\kkrok\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0434\u0435\u043D\u044C4_\u043A\u0430\u043F\u0447\u0430\u002B\u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\avaliniaend\\avaliniaend\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +105,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,64 +113,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EventsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\EventsViewModel.cs",
-              "RelativeDocumentMoniker": "AvaliniaEnd\\ViewModels\\EventsViewModel.cs",
-              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\EventsViewModel.cs",
-              "RelativeToolTip": "AvaliniaEnd\\ViewModels\\EventsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T16:32:19.271Z"
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAK0CAAAAAAAAAAAIwPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-07T07:21:15.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EventsView.axaml",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\EventsView.axaml",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Views\\EventsView.axaml",
               "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\EventsView.axaml",
               "RelativeToolTip": "AvaliniaEnd\\Views\\EventsView.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-06T16:31:20.511Z"
+              "WhenOpened": "2025-03-06T16:31:20.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\Event.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Models\\Event.cs",
               "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\Event.cs",
               "RelativeToolTip": "AvaliniaEnd\\Models\\Event.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAC1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:44:06.682Z"
+              "WhenOpened": "2025-03-06T13:44:06.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "OrganizatorView.axaml",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\OrganizatorView.axaml",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Views\\OrganizatorView.axaml",
               "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\OrganizatorView.axaml",
               "RelativeToolTip": "AvaliniaEnd\\Views\\OrganizatorView.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-06T14:48:56.181Z"
+              "WhenOpened": "2025-03-06T14:48:56.181Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainView.axaml",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\MainView.axaml",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Views\\MainView.axaml",
               "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\MainView.axaml",
               "RelativeToolTip": "AvaliniaEnd\\Views\\MainView.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-06T13:15:45.285Z"
+              "WhenOpened": "2025-03-06T13:15:45.285Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\ViewModels\\MainViewModel.cs",
@@ -175,7 +187,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AvaliniaEnd\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\User.cs",
+              "RelativeToolTip": "AvaliniaEnd\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:01:27.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MainView.axaml.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\MainView.axaml.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Views\\MainView.axaml.cs",
@@ -187,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "LoginView.axaml.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\LoginView.axaml.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Views\\LoginView.axaml.cs",
@@ -200,6 +224,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\Converter.cs",
+              "RelativeDocumentMoniker": "AvaliniaEnd\\Models\\Converter.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\Converter.cs",
+              "RelativeToolTip": "AvaliniaEnd\\Models\\Converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:39:55.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\EventsViewModel.cs",
+              "RelativeDocumentMoniker": "AvaliniaEnd\\ViewModels\\EventsViewModel.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\EventsViewModel.cs",
+              "RelativeToolTip": "AvaliniaEnd\\ViewModels\\EventsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:32:19.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AvaliniaEnd\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "AvaliniaEnd\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:35:03.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginView.axaml",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\LoginView.axaml",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Views\\LoginView.axaml",
@@ -211,43 +273,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "AvaliniaEnd\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "AvaliniaEnd\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:35:03.173Z"
+              "DocumentIndex": 9,
+              "Title": "foto28.jpg - Bitmap [450x252, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Assets\\\u041C\u043E\u0434\u0435\u0440\u0430\u0442\u043E\u0440\u044B_import\\foto28.jpg",
+              "RelativeDocumentMoniker": "AvaliniaEnd\\Assets\\\u041C\u043E\u0434\u0435\u0440\u0430\u0442\u043E\u0440\u044B_import\\foto28.jpg",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Assets\\\u041C\u043E\u0434\u0435\u0440\u0430\u0442\u043E\u0440\u044B_import\\foto28.jpg - Bitmap [450x252, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "RelativeToolTip": "AvaliniaEnd\\Assets\\\u041C\u043E\u0434\u0435\u0440\u0430\u0442\u043E\u0440\u044B_import\\foto28.jpg - Bitmap [450x252, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-07T06:59:10.808Z",
+              "EditorCaption": " - Bitmap [450x252, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\User.cs",
-              "RelativeDocumentMoniker": "AvaliniaEnd\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\User.cs",
-              "RelativeToolTip": "AvaliniaEnd\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:01:27.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Converter.cs",
-              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\Converter.cs",
-              "RelativeDocumentMoniker": "AvaliniaEnd\\Models\\Converter.cs",
-              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\Converter.cs",
-              "RelativeToolTip": "AvaliniaEnd\\Models\\Converter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T15:39:55.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\ViewModels\\MainWindowViewModel.cs",
@@ -259,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "EventsView.axaml.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\EventsView.axaml.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Views\\EventsView.axaml.cs",
@@ -271,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Activity.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\Activity.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Models\\Activity.cs",
@@ -283,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Action.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\Action.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Models\\Action.cs",
@@ -295,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "OrganizatorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\OrganizatorViewModel.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\ViewModels\\OrganizatorViewModel.cs",
@@ -307,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "OrganizatorView.axaml.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\OrganizatorView.axaml.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Views\\OrganizatorView.axaml.cs",
@@ -319,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Views\\MainWindow.axaml.cs",
@@ -331,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Views\\MainWindow.axaml",
@@ -342,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "PostgresContext.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\Models\\PostgresContext.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\Models\\PostgresContext.cs",
@@ -354,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0414\u0435\u043D\u044C4_\u041A\u0430\u043F\u0447\u0430\u002B\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E\\AvaliniaEnd\\AvaliniaEnd\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "AvaliniaEnd\\ViewModels\\ViewModelBase.cs",

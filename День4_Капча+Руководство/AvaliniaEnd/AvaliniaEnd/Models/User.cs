@@ -25,7 +25,7 @@ public partial class User
     public string Password { get; set; } = null!;
 
     public string Photo { get; set; } = null!;
-    public Bitmap Image => Converter.LoadImage(Photo, "C:\\Users\\kkrok\\source\\repos\\AvaliniaEnd\\AvaliniaEnd\\Assets\\Мероприятия_import\\");
+    public Bitmap Image => Converter.LoadImage(Photo, "C:\\Users\\kkrok\\OneDrive\\Desktop\\Практика\\День4_Капча+Руководство\\AvaliniaEnd\\AvaliniaEnd\\Assets\\Модераторы_import\\");
     public int? GenderId { get; set; }
 
     public int? RoleId { get; set; }

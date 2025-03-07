@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvaliniaEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f4d8b5bf49ae29119fc95cb2d5b7e85a212e89a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c6bf70f5e528c9461b3fcf4a806b5d8c74b7b88")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvaliniaEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvaliniaEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

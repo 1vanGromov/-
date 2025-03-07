@@ -17,7 +17,7 @@ public partial class Event
     public int? CityId { get; set; }
 
     public string? Photo { get; set; }
-    public Bitmap Image => Converter.LoadImage(Photo, "C:\\Users\\kkrok\\source\\repos\\AvaliniaEnd\\AvaliniaEnd\\Assets\\Мероприятия_import\\");
+    public Bitmap Image => Converter.LoadImage(Photo, "C:\\Users\\kkrok\\OneDrive\\Desktop\\Практика\\День4_Капча+Руководство\\AvaliniaEnd\\AvaliniaEnd\\Assets\\Мероприятия_import\\");
 
     public virtual ICollection<Activity> Activities { get; set; } = new List<Activity>();
 
